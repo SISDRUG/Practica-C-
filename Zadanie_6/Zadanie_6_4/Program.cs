@@ -13,7 +13,11 @@
         {
             if (char.IsLetter(letter))
             {
-                int letterNumber = letter - 'A' + 1;
+                int letterNumber = letter - 'А' + 1;
+                if (letterNumber > 7)
+                {
+                    letterNumber++;
+                }
                 sum += letterNumber;
             }
         }
