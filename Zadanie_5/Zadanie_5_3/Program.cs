@@ -21,7 +21,7 @@
             Console.WriteLine();
             for (int j = 0; j < n; j++)
             {
-                Console.Write("{0} ", mass[i, j]);
+                Console.Write("{0,-3} ", mass[i, j]);
             }
             
         }
