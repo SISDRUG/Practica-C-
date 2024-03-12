@@ -5,7 +5,7 @@ internal class Program
     {
         Console.WriteLine("Input stroke");
         string s = Console.ReadLine();
-        Regex regex = new Regex(@"\b\w+-\w+\b\");
+        Regex regex = new Regex(@"\b\w+-\w+\b");
         MatchCollection matches = regex.Matches(s);
 
         if (matches.Count > 0)
