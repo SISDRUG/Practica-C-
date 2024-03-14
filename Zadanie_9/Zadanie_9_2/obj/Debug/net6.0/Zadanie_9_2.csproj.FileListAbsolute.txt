@@ -1,0 +1,15 @@
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/bin/Debug/net6.0/Zadanie_9_2
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/bin/Debug/net6.0/Zadanie_9_2.deps.json
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/bin/Debug/net6.0/Zadanie_9_2.runtimeconfig.json
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/bin/Debug/net6.0/Zadanie_9_2.dll
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/bin/Debug/net6.0/Zadanie_9_2.pdb
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.csproj.AssemblyReference.cache
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.AssemblyInfoInputs.cache
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.AssemblyInfo.cs
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.csproj.CoreCompileInputs.cache
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.dll
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/refint/Zadanie_9_2.dll
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.pdb
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/Zadanie_9_2.genruntimeconfig.cache
+/Users/sisdrug/Zadanie_9/Zadanie_9_2/obj/Debug/net6.0/ref/Zadanie_9_2.dll

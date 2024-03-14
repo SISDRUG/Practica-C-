@@ -1,0 +1,5 @@
+/Users/sisdrug/Zadanie_9/Zadanie_9_1/obj/Debug/net6.0/Zadanie_9_1.csproj.AssemblyReference.cache
+/Users/sisdrug/Zadanie_9/Zadanie_9_1/obj/Debug/net6.0/Zadanie_9_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sisdrug/Zadanie_9/Zadanie_9_1/obj/Debug/net6.0/Zadanie_9_1.AssemblyInfoInputs.cache
+/Users/sisdrug/Zadanie_9/Zadanie_9_1/obj/Debug/net6.0/Zadanie_9_1.AssemblyInfo.cs
+/Users/sisdrug/Zadanie_9/Zadanie_9_1/obj/Debug/net6.0/Zadanie_9_1.csproj.CoreCompileInputs.cache
