@@ -1,6 +1,4 @@
-﻿using Internal;
-
-internal class Program
+﻿internal class Program
 {
     class cl : Ix, Iy, Iz
     {
