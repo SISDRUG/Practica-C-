@@ -1,0 +1,14 @@
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/bin/Debug/net8.0/Zadanie_12_3
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/bin/Debug/net8.0/Zadanie_12_3.deps.json
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/bin/Debug/net8.0/Zadanie_12_3.runtimeconfig.json
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/bin/Debug/net8.0/Zadanie_12_3.dll
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/bin/Debug/net8.0/Zadanie_12_3.pdb
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/Zadanie_12_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/Zadanie_12_3.AssemblyInfoInputs.cache
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/Zadanie_12_3.AssemblyInfo.cs
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/Zadanie_12_3.csproj.CoreCompileInputs.cache
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/Zadanie_12_3.dll
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/refint/Zadanie_12_3.dll
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/Zadanie_12_3.pdb
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/Zadanie_12_3.genruntimeconfig.cache
+/Users/sisdrug/Practica-C-/Zadanie_12/Zadanie_12_3/obj/Debug/net8.0/ref/Zadanie_12_3.dll
