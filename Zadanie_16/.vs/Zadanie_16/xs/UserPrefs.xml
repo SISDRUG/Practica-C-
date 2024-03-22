@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4C58C151-1226-49AF-9E7B-3023921A9126}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zadanie_16_3/Program.cs">
+    <Files>
+      <File FileName="Zadanie_16_1/Program.cs" />
+      <File FileName="Zadanie_16_2/Program.cs" />
+      <File FileName="Zadanie_16_3/f.txt" Line="1" Column="2" />
+      <File FileName="Zadanie_16_1/f.txt" Line="1" Column="1" />
+      <File FileName="Zadanie_16_3/Program.cs" Line="46" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zadanie_16" expanded="True">
+            <Node name="Zadanie_16_1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Zadanie_16_2" expanded="True" />
+            <Node name="Zadanie_16_3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Zadanie__16__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Zadanie__16__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Zadanie__16__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
