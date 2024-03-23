@@ -1,0 +1,4 @@
+/Users/sisdrug/Practica-C-/Zadanie_17/Zadanie_17_1/obj/Debug/net8.0/Zadanie_17_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sisdrug/Practica-C-/Zadanie_17/Zadanie_17_1/obj/Debug/net8.0/Zadanie_17_1.AssemblyInfoInputs.cache
+/Users/sisdrug/Practica-C-/Zadanie_17/Zadanie_17_1/obj/Debug/net8.0/Zadanie_17_1.AssemblyInfo.cs
+/Users/sisdrug/Practica-C-/Zadanie_17/Zadanie_17_1/obj/Debug/net8.0/Zadanie_17_1.csproj.CoreCompileInputs.cache
