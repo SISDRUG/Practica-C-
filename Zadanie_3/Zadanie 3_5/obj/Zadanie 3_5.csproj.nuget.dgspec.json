@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sisdrug/Projects/Zadanie 3/Zadanie 3_5/Zadanie 3_5.csproj": {}
+    "/Users/sisdrug/Practica-C-/Zadanie_3/Zadanie 3_5/Zadanie 3_5.csproj": {}
   },
   "projects": {
-    "/Users/sisdrug/Projects/Zadanie 3/Zadanie 3_5/Zadanie 3_5.csproj": {
+    "/Users/sisdrug/Practica-C-/Zadanie_3/Zadanie 3_5/Zadanie 3_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sisdrug/Projects/Zadanie 3/Zadanie 3_5/Zadanie 3_5.csproj",
+        "projectUniqueName": "/Users/sisdrug/Practica-C-/Zadanie_3/Zadanie 3_5/Zadanie 3_5.csproj",
         "projectName": "Zadanie 3_5",
-        "projectPath": "/Users/sisdrug/Projects/Zadanie 3/Zadanie 3_5/Zadanie 3_5.csproj",
+        "projectPath": "/Users/sisdrug/Practica-C-/Zadanie_3/Zadanie 3_5/Zadanie 3_5.csproj",
         "packagesPath": "/Users/sisdrug/.nuget/packages/",
-        "outputPath": "/Users/sisdrug/Projects/Zadanie 3/Zadanie 3_5/obj/",
+        "outputPath": "/Users/sisdrug/Practica-C-/Zadanie_3/Zadanie 3_5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sisdrug/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }

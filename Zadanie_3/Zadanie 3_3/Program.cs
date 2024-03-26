@@ -1,8 +1,15 @@
 ﻿internal class Program
 {
-
-    public static int f(double x, int a, int b)
-    {
+    
+        /// <summary>
+        /// Метод f, который возвращает целое число.
+        /// </summary>
+        /// <param name="x">Входной параметр типа double.</param>
+        /// <param name="a">Первый входной параметр типа int.</param>
+        /// <param name="b">Второй входной параметр типа int.</param>
+        /// <returns>Возвращает результат вычисления в зависимости от условий.</returns>
+        public static int f(double x, int a, int b)
+     {
         if (Math.Pow(x, 2) - (5 * x) < 0)
         {
             return a + b;
@@ -12,10 +19,16 @@
             return a - b;
         }
         else { return a * b; }
+     }
 
-    }
-
-    public static void f(double x, int a, int b, out double y)
+        /// <summary>
+        /// Метод f, который возвращает результат через выходной параметр.
+        /// </summary>
+        /// <param name="x">Входной параметр типа double.</param>
+        /// <param name="a">Первый входной параметр типа int.</param>
+        /// <param name="b">Второй входной параметр типа int.</param>
+        /// <param name="y">Выходной параметр, в который записывается результат.</param>
+        public static void f(double x, int a, int b, out double y)
     {
         if (Math.Pow(x, 2) - (5 * x) < 0)
         {

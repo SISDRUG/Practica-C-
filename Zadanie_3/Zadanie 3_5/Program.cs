@@ -1,22 +1,39 @@
 ﻿internal class Program
 {
+    /// <summary>
+    /// Represents a matrix of double values.
+    /// </summary>
     public class Matr
     {
         double[,] matr;
         int row;
         int col;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Matr"/> class with no params.
+        /// </summary>
         public Matr()
         {
 
         }
 
+        /// <summary>
+        /// Gets or sets the value of an element in the matrix at the specified indices.
+        /// </summary>
+        /// <param name="row">Row index.</param>
+        /// <param name="col">Col index</param>
+        /// <returns>The value of matrix element.</returns>
         public double this[int row, int col]
         {
             get => matr[row, col];
             set => matr[row, col] = value;
         }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Matr"/> class with specified dimensions.
+        /// </summary>
+        /// <param name="row">Number of rows.</param>
+        /// <param name="col">Number of columns.</param>
         public Matr(int row,int col)
         {
             this.matr = new double[row,col];
@@ -24,13 +41,23 @@
             this.row = row;
         }
 
-        public  Matr(Matr c)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Matr"/> class as a copy of another matrix.
+        /// </summary>
+        /// <param name="c">Matrix to copy.</param>
+        public Matr(Matr c)
         {
             this.matr = (double[,])c.matr.Clone();
             this.row = c.row;
             this.col = c.col;
         }
 
+        /// <summary>
+        /// Adds two matrices element-wise.
+        /// </summary>
+        /// <param name="f">First matrix.</param>
+        /// <param name="s">Second matrix.</param>
+        /// <returns>The resulting matrix.</returns>
         public static Matr operator + (Matr f, Matr s)
         {
             Matr r = new(f);
@@ -44,19 +71,12 @@
             return r;
         }
 
-        public static Matr operator + (Matr f, int s)
-        {
-            Matr r = new(f);
-            for (int i = 0; i < f.row; i++)
-            {
-                for (int j = 0; j < f.col; j++)
-                {
-                    r[i, j] = f[i, j] + s;
-                }
-            }
-            return r;
-        }
-
+        /// <summary>
+        /// Determines if the first matrix is greater than the second matrix element-wise.
+        /// </summary>
+        /// <param name="f">First matrix.</param>
+        /// <param name="s">Second matrix.</param>
+        /// <returns>True if the first matrix is greater than the second matrix; otherwise, false.</returns>
         public static bool operator > (Matr f, Matr s)
         {
             if (f.row == s.row & f.col == s.col)
@@ -82,6 +102,13 @@
             return false;
             
         }
+
+        /// <summary>
+        /// Determines if the first matrix is less than the second matrix element-wise.
+        /// </summary>
+        /// <param name="f">First matrix.</param>
+        /// <param name="s">Second matrix.</param>
+        /// <returns>True if the first matrix is less than the second matrix; otherwise, false.</returns>
         public static bool operator <(Matr f, Matr s)
         {
             if (f.row == s.row & f.col == s.col)
@@ -108,6 +135,9 @@
 
         }
 
+        /// <summary>
+        /// Prints the matrix.
+        /// </summary>
         public void Print()
         {
             for (int i = 0; i < this.row; i++)
