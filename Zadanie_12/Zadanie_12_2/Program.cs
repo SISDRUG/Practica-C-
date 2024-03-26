@@ -2,10 +2,17 @@
 {
     class Program
     {
+        /// <summary>
+        /// Delegate for binary arithmetic operations.
+        /// </summary>
+        /// <param name="a">First operand.</param>
+        /// <param name="b">Second operand.</param>
+        /// <returns>Result of the operation.</returns>
         public delegate double Del(double a, double b);
 
         static void Main(string[] args)
         {
+            // Create delegate instances for addition, subtraction, multiplication, and division
             Del Add = (a, b) => a + b;
             Del Sub = (a, b) => a - b;
             Del Mul = (a, b) => a * b;
