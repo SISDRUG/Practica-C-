@@ -1,0 +1,14 @@
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/bin/Debug/net8.0/Zadanie_20_5
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/bin/Debug/net8.0/Zadanie_20_5.deps.json
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/bin/Debug/net8.0/Zadanie_20_5.runtimeconfig.json
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/bin/Debug/net8.0/Zadanie_20_5.dll
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/bin/Debug/net8.0/Zadanie_20_5.pdb
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/Zadanie_20_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/Zadanie_20_5.AssemblyInfoInputs.cache
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/Zadanie_20_5.AssemblyInfo.cs
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/Zadanie_20_5.csproj.CoreCompileInputs.cache
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/Zadanie_20_5.dll
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/refint/Zadanie_20_5.dll
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/Zadanie_20_5.pdb
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/Zadanie_20_5.genruntimeconfig.cache
+/Users/sisdrug/Practica-C-/Zadanie_20/Zadanie_20_5/obj/Debug/net8.0/ref/Zadanie_20_5.dll
