@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A0BC5F3A-E62C-49A2-BF78-E84C8E7014CC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Zadanie__20__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Zadanie__20__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Zadanie__20__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zadanie_20_5/Program.cs">
+    <Files>
+      <File FileName="Zadanie_20_1/Program.cs" Line="34" Column="1" />
+      <File FileName="Zadanie_20_2/Program.cs" Line="22" Column="29" />
+      <File FileName="Zadanie_20_3/Program.cs" Line="26" Column="58" />
+      <File FileName="Zadanie_20_4/Program.cs" Line="17" Column="2" />
+      <File FileName="Zadanie_20_5/Program.cs" Line="9" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zadanie_20" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Zadanie__20__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Zadanie__20__5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
