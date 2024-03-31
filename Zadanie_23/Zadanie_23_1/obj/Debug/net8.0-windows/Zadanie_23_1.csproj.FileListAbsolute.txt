@@ -1,0 +1,16 @@
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\bin\Debug\net8.0-windows\Zadanie_23_1.exe
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\bin\Debug\net8.0-windows\Zadanie_23_1.deps.json
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\bin\Debug\net8.0-windows\Zadanie_23_1.runtimeconfig.json
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\bin\Debug\net8.0-windows\Zadanie_23_1.dll
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\bin\Debug\net8.0-windows\Zadanie_23_1.pdb
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.Form1.resources
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.csproj.GenerateResource.cache
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.AssemblyInfoInputs.cache
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.AssemblyInfo.cs
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.csproj.CoreCompileInputs.cache
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.dll
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\refint\Zadanie_23_1.dll
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.pdb
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\Zadanie_23_1.genruntimeconfig.cache
+C:\Users\SISDRUG\Desktop\Zadanie_23\Zadanie_23_1\obj\Debug\net8.0-windows\ref\Zadanie_23_1.dll
