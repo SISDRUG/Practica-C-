@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uTlDHPHC7fB1wfREC/dn+JDxMC3MYy8L3UQVqp9VWIpO+6GYUkna5BPtn38rsNCP+YHdJQWWwRVbeTnCPm2Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_25\\Zadanie_25_2\\Zadanie_25_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SISDRUG\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\SISDRUG\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\SISDRUG\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
