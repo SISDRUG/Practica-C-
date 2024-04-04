@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<avto>
+	<avto1>
+		<marka>bmw</marka>
+		<year>2012</year>
+		<days>6</days>
+	</avto1>
+	<avto2>y
+		<marka>toyota</marka>
+		<year>2000</year>
+		<days>3</days>
+	</avto2>
+</avto>
