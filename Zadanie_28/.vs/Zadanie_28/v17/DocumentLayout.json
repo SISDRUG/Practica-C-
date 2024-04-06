@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CA666C-F846-4731-8EFD-2A9A6012B634}|Zadanie_28_3\\Zadanie_28_3.csproj|c:\\users\\sisdrug\\desktop\\zadanie_28\\zadanie_28_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CA666C-F846-4731-8EFD-2A9A6012B634}|Zadanie_28_3\\Zadanie_28_3.csproj|solutionrelative:zadanie_28_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CA666C-F846-4731-8EFD-2A9A6012B634}|Zadanie_28_3\\Zadanie_28_3.csproj|c:\\users\\sisdrug\\desktop\\zadanie_28\\zadanie_28_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8CA666C-F846-4731-8EFD-2A9A6012B634}|Zadanie_28_3\\Zadanie_28_3.csproj|solutionrelative:zadanie_28_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3EA2C-8D17-4F31-80EC-E1D57DC5C3CF}|Zadanie_28_1\\Zadanie_28_1.csproj|c:\\users\\sisdrug\\desktop\\zadanie_28\\zadanie_28_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD3EA2C-8D17-4F31-80EC-E1D57DC5C3CF}|Zadanie_28_1\\Zadanie_28_1.csproj|solutionrelative:zadanie_28_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA829F8A-BFF1-4ED2-AF4E-920980B7565D}|Zadanie_28_2\\Zadanie_28_2.csproj|c:\\users\\sisdrug\\desktop\\zadanie_28\\zadanie_28_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA829F8A-BFF1-4ED2-AF4E-920980B7565D}|Zadanie_28_2\\Zadanie_28_2.csproj|solutionrelative:zadanie_28_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA829F8A-BFF1-4ED2-AF4E-920980B7565D}|Zadanie_28_2\\Zadanie_28_2.csproj|c:\\users\\sisdrug\\desktop\\zadanie_28\\zadanie_28_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA829F8A-BFF1-4ED2-AF4E-920980B7565D}|Zadanie_28_2\\Zadanie_28_2.csproj|solutionrelative:zadanie_28_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA829F8A-BFF1-4ED2-AF4E-920980B7565D}|Zadanie_28_2\\Zadanie_28_2.csproj|c:\\users\\sisdrug\\desktop\\zadanie_28\\zadanie_28_2\\testdrawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA829F8A-BFF1-4ED2-AF4E-920980B7565D}|Zadanie_28_2\\Zadanie_28_2.csproj|solutionrelative:zadanie_28_2\\testdrawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie_28_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Zadanie_28_1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:40:50.2Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Zadanie_28_3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_3\\MainWindow.xaml",
+              "RelativeToolTip": "Zadanie_28_3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-06T08:39:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie_28_3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Zadanie_28_3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:39:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestDrawing.cs",
+              "DocumentMoniker": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_2\\TestDrawing.cs",
+              "RelativeDocumentMoniker": "Zadanie_28_2\\TestDrawing.cs",
+              "ToolTip": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_2\\TestDrawing.cs",
+              "RelativeToolTip": "Zadanie_28_2\\TestDrawing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:36:16.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Zadanie_28_2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_2\\MainWindow.xaml",
+              "RelativeToolTip": "Zadanie_28_2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-06T08:35:09.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie_28_2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_28\\Zadanie_28_2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Zadanie_28_2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:35:08.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
