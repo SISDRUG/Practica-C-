@@ -1,0 +1,16 @@
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\bin\Debug\net8.0-windows\Zadanie_29_2.exe
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\bin\Debug\net8.0-windows\Zadanie_29_2.deps.json
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\bin\Debug\net8.0-windows\Zadanie_29_2.runtimeconfig.json
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\bin\Debug\net8.0-windows\Zadanie_29_2.dll
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\bin\Debug\net8.0-windows\Zadanie_29_2.pdb
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.Form1.resources
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.csproj.GenerateResource.cache
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.AssemblyInfoInputs.cache
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.AssemblyInfo.cs
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.csproj.CoreCompileInputs.cache
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.dll
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\refint\Zadanie_29_2.dll
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.pdb
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\Zadanie_29_2.genruntimeconfig.cache
+C:\Users\SISDRUG\Desktop\Zadanie_29\Zadanie_29_2\obj\Debug\net8.0-windows\ref\Zadanie_29_2.dll
