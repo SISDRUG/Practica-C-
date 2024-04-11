@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33789C6A-EF90-42FF-94FB-282F3AD34403}|Zadanie_31\\Zadanie_31.csproj|c:\\users\\sisdrug\\desktop\\zadanie_31\\zadanie_31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33789C6A-EF90-42FF-94FB-282F3AD34403}|Zadanie_31\\Zadanie_31.csproj|solutionrelative:zadanie_31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_31\\Zadanie_31\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie_31\\Program.cs",
+              "ToolTip": "C:\\Users\\SISDRUG\\Desktop\\Zadanie_31\\Zadanie_31\\Program.cs*",
+              "RelativeToolTip": "Zadanie_31\\Program.cs*",
+              "ViewState": "AQIAADUAAAAAAAAAAAAnwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:14:03.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

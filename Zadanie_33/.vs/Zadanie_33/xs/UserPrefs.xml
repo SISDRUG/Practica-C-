@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zadanie_32/Turisty.mdb">
+    <Files>
+      <File FileName="Zadanie_32/App.xaml.cs" Line="5" Column="21" />
+      <File FileName="Zadanie_32/App.xaml" Line="4" Column="51" />
+      <File FileName="Zadanie_32/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Zadanie_32/MainWindow.xaml" Line="6" Column="46" />
+      <File FileName="Zadanie_32/MainWindow.xaml.cs" Line="14" Column="21" />
+      <File FileName="Zadanie_32/Turisty.mdb" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zadanie_33" expanded="True">
+            <Node name="Zadanie_33" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
