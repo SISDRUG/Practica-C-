@@ -11,7 +11,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Data.OleDb;
 
-namespace Zadanie_32
+namespace Zadanie_33
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -21,7 +21,7 @@ namespace Zadanie_32
         public MainWindow()
         {
             InitializeComponent();
-            string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\SISDRUG\Desktop\Zadanie_32\Zadanie_32\Turisty.mdb;Persist Security Info=False;";
+            string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\SISDRUG\Desktop\Zadanie_33\Zadanie_33\Turisty.mdb;Persist Security Info=False;";
 
             using (OleDbConnection connection = new OleDbConnection(connectionString))
             {
